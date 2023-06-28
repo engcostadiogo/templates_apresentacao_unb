@@ -1,5 +1,5 @@
 # Templates apresentação UnB
-Templates criados por mim a fim de tentar padronizar as apresentações nd UnB!
+Templates criados por mim a fim de tentar padronizar as apresentações na UnB!
 
 Criei estes templates devido as várias reclamações de professores durante várias bancas que participei.
 Algumas coisas pequenas que passam despercebidas foram colocadas como o nome do que se está defendendo (TCC, Defesa de dissertação e por ai vai...).
